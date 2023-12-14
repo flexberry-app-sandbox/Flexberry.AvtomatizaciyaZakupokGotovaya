@@ -1,0 +1,4 @@
+import IISAvtomatizaciya_zakupok_gotovayaСкладыEController from '../i-i-s-avtomatizaciya-zakupok-gotovaya-склады-e';
+
+var IISAvtomatizaciya_zakupok_gotovayaСкладыENewController = IISAvtomatizaciya_zakupok_gotovayaСкладыEController;
+export default IISAvtomatizaciya_zakupok_gotovayaСкладыENewController;

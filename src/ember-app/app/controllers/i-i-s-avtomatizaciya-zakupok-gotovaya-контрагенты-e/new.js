@@ -1,0 +1,4 @@
+import IISAvtomatizaciya_zakupok_gotovayaКонтрагентыEController from '../i-i-s-avtomatizaciya-zakupok-gotovaya-контрагенты-e';
+
+var IISAvtomatizaciya_zakupok_gotovayaКонтрагентыENewController = IISAvtomatizaciya_zakupok_gotovayaКонтрагентыEController;
+export default IISAvtomatizaciya_zakupok_gotovayaКонтрагентыENewController;

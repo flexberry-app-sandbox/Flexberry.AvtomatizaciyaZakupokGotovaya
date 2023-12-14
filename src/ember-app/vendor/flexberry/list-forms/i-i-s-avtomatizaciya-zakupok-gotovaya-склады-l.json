@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-avtomatizaciya-zakupok-gotovaya-склады-e",
+  "editForm": "i-i-s-avtomatizaciya-zakupok-gotovaya-склады-e",
+  "external": false,
+  "caption": "Склады",
+  "name": "IISAvtomatizaciya_zakupok_gotovayaСкладыL",
+  "className": "СкладыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-avtomatizaciya-zakupok-gotovaya-склады",
+      "modelProjection": "СкладыL"
+    }
+  ]
+}

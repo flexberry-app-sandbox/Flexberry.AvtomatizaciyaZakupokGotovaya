@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-avtomatizaciya-zakupok-gotovaya-номенклатура-e",
+  "editForm": "i-i-s-avtomatizaciya-zakupok-gotovaya-номенклатура-e",
+  "external": false,
+  "caption": "Номенклатура",
+  "name": "IISAvtomatizaciya_zakupok_gotovayaНоменклатураL",
+  "className": "НоменклатураL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-avtomatizaciya-zakupok-gotovaya-номенклатура",
+      "modelProjection": "НоменклатураL"
+    }
+  ]
+}

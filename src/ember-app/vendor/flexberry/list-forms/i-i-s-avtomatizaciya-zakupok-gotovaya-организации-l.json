@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-avtomatizaciya-zakupok-gotovaya-организации-e",
+  "editForm": "i-i-s-avtomatizaciya-zakupok-gotovaya-организации-e",
+  "external": false,
+  "caption": "Организации",
+  "name": "IISAvtomatizaciya_zakupok_gotovayaОрганизацииL",
+  "className": "ОрганизацииL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-avtomatizaciya-zakupok-gotovaya-организации",
+      "modelProjection": "ОрганизацииL"
+    }
+  ]
+}

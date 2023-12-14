@@ -1,0 +1,4 @@
+import IISAvtomatizaciya_zakupok_gotovayaЗаказПостEController from '../i-i-s-avtomatizaciya-zakupok-gotovaya-заказ-пост-e';
+
+var IISAvtomatizaciya_zakupok_gotovayaЗаказПостENewController = IISAvtomatizaciya_zakupok_gotovayaЗаказПостEController;
+export default IISAvtomatizaciya_zakupok_gotovayaЗаказПостENewController;
